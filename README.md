@@ -18,3 +18,6 @@ Completely Responsive
 # Scan QR Code To Visit Resume Builder
 
 ![Resume Builder QR](https://user-images.githubusercontent.com/71305760/167234718-fefebfe4-adbb-468d-a166-a41bd28cabf8.png)
+
+
+**npm Packages Used **
